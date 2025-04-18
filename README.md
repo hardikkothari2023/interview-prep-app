@@ -116,15 +116,6 @@ The frontend will run at: `http://localhost:3000`
 - Natural Language Processing (NLP)
 - Data Analysis
 
----
 
-## 📷 Preview
-
-Make sure the banner image is placed at:
-```
-/home/hardik/All Project  By Hardik/interview-prep-app/app.png
-
-
----
-Best Of Luch
-Enjoy learning with quizzes! 🎓✨
+## Best Of Luck
+## Enjoy learning with quizzes! 🎓✨
