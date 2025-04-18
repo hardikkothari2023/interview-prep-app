@@ -1,0 +1,8 @@
+Flask
+flask-cors
+transformers
+torch
+spacy
+python-docx
+PyPDF2
+
