@@ -126,5 +126,5 @@ Make sure the banner image is placed at:
 
 
 ---
-
+Best Of Luch
 Enjoy learning with quizzes! 🎓✨
